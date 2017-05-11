@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+## 基本信息
 
-You can use the [editor on GitHub](https://github.com/Whisky2017/whisky.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+姓 名：魏世康
+本科院校：华中科技大学计算机学院
+专 业：12 级信息安全专业（本科）/16 级计算机软件与理论专业（硕士）
+联系电话：+86 182 0272 7949
+邮 箱：wskyt2015@gmail.com
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 项目经历
 
-### Markdown
+### 本科：
+校园导游系统——数据结构课程设计（C 语言实现）
+综合审计系统——信息安全综合设计与实践（ubantu+GTK 实现）
+仓库管理系统——数据库课程设计（QT+Mysql 实现）
+FTP 客户端——计算机网络课程设计（VS+MFC 实现）
+数据聚类可视化平台——本科毕业设计（HTML+CSS+JS+XML+JAVA 实现）
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 硕士：
+电子阅览室系统——公司实习项目（JAVA+SSH 框架+H5+CSS+JS 实现）
+在线订单管理系统——公司实习项目（JAVA+SSH 框架+H5+CSS+JS 实现）
+在线学习与考试系统——实验室项目（PHP+H5+CSS+JS 实现）
+武大 C++实训/华科 C++实训——项目经理
 
-```markdown
-Syntax highlighted code block
+## 学生工作
+院权益部部员、 院宣传部部长、校思存工作室干事、 校搜狐俱乐部 UED 组组
+长、 校网信办学生组长，院研会学术部部长
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Whisky2017/whisky.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## 技能储备
+精通 JAVA 及 JAVA WEB 开发（JAVA+HTML/CSS/JS/XML）
+熟练掌握 Mysql 等数据库操作
+基本掌握 php
